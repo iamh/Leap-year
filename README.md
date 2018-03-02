@@ -5,9 +5,7 @@ console that reads the years that appear in said file, and for each year it is c
 whether it is a leap or not. The output will be written to a text file.
 
 Example:
-            in              out
-            2000            2000;Bisiesto
-            2001            2001;No Bisiesto
+            in -> 2000 / out -> 2000;Bisiesto
 
 It may be the case that a line does not contain a year, if not a random text.
 In this case, the line must be discarded.
